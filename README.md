@@ -18,9 +18,9 @@ Everyone is welcome to contribute, steps for contributing:
 
 Added: 
 * Linear Regression
+* Logistic Regression
 
 To do:
-* Logistic Regression
 * Decision Tree
 * Random Forest
 * Naive Bayes
