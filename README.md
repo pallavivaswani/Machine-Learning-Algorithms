@@ -15,7 +15,6 @@ Everyone is welcome to contribute, steps for contributing:
 6. ``git commit -m <your_message>`` your changes into master branch.
 7. ``git push origin master`` into your forked repository.
 8. Issue a pull request from forked repo to this repo.
-9. Get your name in CONTRIBUTORS.md!
 
 Added: 
 * Linear Regression
