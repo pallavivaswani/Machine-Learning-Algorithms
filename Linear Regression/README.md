@@ -19,6 +19,7 @@ python linear.py
 
 <b>OUTPUT:</b>
 
-[](images/linear_reg.PNG)
+![](images/linear_reg.PNG)
 
-[](images/linear_plot.PNG)
+
+![](images/linear_plot.png)
