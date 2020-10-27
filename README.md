@@ -19,10 +19,10 @@ Everyone is welcome to contribute, steps for contributing:
 Added: 
 * Linear Regression
 * Logistic Regression
+* Naive Bayes
 
 To do:
 * Decision Tree
 * Random Forest
-* Naive Bayes
 * K-nearest Neighbour
 
